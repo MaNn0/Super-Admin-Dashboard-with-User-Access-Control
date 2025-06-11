@@ -17,9 +17,11 @@ This is a full-stack web application developed as part of an interview task. It 
 
 ---
 
-## Situation and Apology
+## 🙏 Situation and Apology
 
-Apologies for the delay in pushing this to GitHub. Debugging URL routing and migrations, along with personal commitments, caused the hold-up. The application is now fully functional and tested. Thank you for your understanding — happy to clarify or improve anything further.
+Apologies for the delay in pushing this to GitHub. I accidentally discarded all changes during development and had to recreate the entire project from scratch, which caused unexpected delays. Additionally, debugging URL routing and migrations, along with personal commitments, added to the timeline.
+
+The application is now fully rebuilt, functional, and tested. Thank you for your patience — happy to clarify or improve anything further.
 
 ---
 
