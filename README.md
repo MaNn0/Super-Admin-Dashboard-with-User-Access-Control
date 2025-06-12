@@ -66,6 +66,8 @@ npm start
 ### Admin Dashboard
 - **Login**: [http://localhost:5173/login](http://localhost:5173/login)
 - **Manage users/permissions**: [http://localhost:5173/admin](http://localhost:5173/admin)
+- **Admin Email**: admin@gmail.com
+- **Admin Password**: Admin2001
 
 ### User Dashboard
 - **View permissions**: [http://localhost:5173/dashboard](http://localhost:5173/dashboard)
