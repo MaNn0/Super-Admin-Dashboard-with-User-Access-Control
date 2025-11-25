@@ -17,15 +17,6 @@ This is a full-stack web application developed as part of an interview task. It 
 
 ---
 
-## 🙏 Situation and Apology
-Apologies for the delay in pushing this to GitHub. During development, I accidentally discarded all project changes and had to recreate everything from scratch, which significantly impacted my time. This, combined with debugging issues (especially around URL routing and migrations) and personal commitments, led to the delay.
-
-While I wasn't able to complete the entire task due to the above circumstances and time constraints, I focused on finishing as much as possible before the deadline.
-
-That said, the app is now fully functional and tested up to this point. I’m happy to complete the remaining parts if an extension is possible. Thank you very much for your patience and understanding — open to feedback or discussion!
-
----
-
 ## 🚀 Setup Instructions
 
 ### Prerequisites
